@@ -1,1 +1,2 @@
 # Customer-segmentation-dataset
+# A customer segmentation data science project is an essential task for businesses looking to understand their customer base better and tailor their marketing, product offerings, and customer service to specific groups of customers. Customer segmentation involves dividing a company's customer base into distinct groups based on shared characteristics, behaviors, or attributes. This allows for more personalized and targeted marketing efforts, which can lead to higher customer satisfaction and increased sales. 
